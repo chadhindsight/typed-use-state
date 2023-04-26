@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+/* Dark Mode */
+body {
+  background-color: #111111;
+  color: white;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
